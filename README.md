@@ -1,2 +1,2 @@
 # first-repo
-First repository
+Trying to learn how git works
